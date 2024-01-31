@@ -5,16 +5,31 @@ project:
 website:
   title: "Quarto_website"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    toggle-position: right
+    background: "#f0eeeb"
+    logo-alt: "Personal Website"
+    title: false
+    collapse-below: lg
+    right:
+      - resume/index.qmd
+      - projects/index.qmd
+      - connect/index.qmd
+
+  page-navigation: true
+
+  back-to-top-navigation: false
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: [lux, rwds.scss]
+    css: rwds.css
     toc: true
+    grid:
+      sidebar-width: 0px
+      body-width: 1000px
+      margin-width: 250px
 
+execute: 
+  freeze: auto
 
 

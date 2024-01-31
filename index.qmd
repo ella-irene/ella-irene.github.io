@@ -1,7 +1,26 @@
 ---
-title: "Quarto_website"
+pagetitle: " Ella Hein"
+page-layout: custom
+section-divs: false
+editor: source
+sidebar: false
+search: false
+repo-actions: false
+description: | 
+  A personal website.
+
+
+toc: false
 ---
+::: {.content-container}
+::: {.top-story .purple-background}
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: grid
+::: {.g-col-12 .g-col-lg-4 .top-story-text}
+## UK government sets out 10 principles for use of generative AI
+Government says staff need to understand what generative AI is, its limitations, how to monitor and mitigate "generative AI drift, bias and hallucinations" and to have "a robust testing and monitoring process in place to catch these problems."    
+:::
+::: {.g-col-12 .g-col-lg-8 .top-story-img}
+![](viewpoints/editors-blog/posts/2024/01/22/images/uk-parliament.png)
+:::
+:::

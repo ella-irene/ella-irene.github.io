@@ -1,16 +1,23 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quarto_website",
+    "section": "",
+    "text": "::: {.content-container} ::: {.top-story .purple-background}"
+  },
+  {
+    "objectID": "index.html#uk-government-sets-out-10-principles-for-use-of-generative-ai",
+    "href": "index.html#uk-government-sets-out-10-principles-for-use-of-generative-ai",
+    "title": "Quarto_website",
+    "section": "UK government sets out 10 principles for use of generative AI",
+    "text": "UK government sets out 10 principles for use of generative AI\nGovernment says staff need to understand what generative AI is, its limitations, how to monitor and mitigate “generative AI drift, bias and hallucinations” and to have “a robust testing and monitoring process in place to catch these problems.”"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\nThis is so exciting."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Quarto_website",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
