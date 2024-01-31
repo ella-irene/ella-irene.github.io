@@ -8,6 +8,7 @@ search: false
 repo-actions: false
 description: | 
   A personal website.
+image: images/name.png
 
 
 toc: false
@@ -21,6 +22,6 @@ toc: false
 Government says staff need to understand what generative AI is, its limitations, how to monitor and mitigate "generative AI drift, bias and hallucinations" and to have "a robust testing and monitoring process in place to catch these problems."    
 :::
 ::: {.g-col-12 .g-col-lg-8 .top-story-img}
-![](viewpoints/editors-blog/posts/2024/01/22/images/uk-parliament.png)
+![](images/headshot.png)
 :::
 :::
