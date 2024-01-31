@@ -1,0 +1,8 @@
+---
+pagetitle: resume | Ella Hein
+title: Resume
+subtitle: "A one-page overview of my experiences, projects, and skills."
+search: false
+repo-actions: false
+---
+resume coming soon ...

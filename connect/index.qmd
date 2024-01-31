@@ -1,0 +1,8 @@
+---
+pagetitle: Connect | Ella Hein
+title: Connect
+subtitle: "Connect with me to follow my progress!"
+search: false
+repo-actions: false
+---
+Details coming soon ...

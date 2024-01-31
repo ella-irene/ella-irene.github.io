@@ -1,5 +1,5 @@
 ---
-pagetitle: " Ella Hein"
+pagetitle: "Ella Hein"
 page-layout: custom
 section-divs: false
 editor: source
@@ -8,8 +8,7 @@ search: false
 repo-actions: false
 description: | 
   A personal website.
-image: images/name.png
-
+image: images/name1.png
 
 toc: false
 ---
@@ -18,10 +17,12 @@ toc: false
 
 ::: grid
 ::: {.g-col-12 .g-col-lg-4 .top-story-text}
-## UK government sets out 10 principles for use of generative AI
-Government says staff need to understand what generative AI is, its limitations, how to monitor and mitigate "generative AI drift, bias and hallucinations" and to have "a robust testing and monitoring process in place to catch these problems."    
+## Creative Data Scientist
+Welcome to my page! I am a Masters in Data Science student at UBC with a passion for problem solving. Use this site to learn more about me, my projects, experiences, and the things I learned along the way.
 :::
 ::: {.g-col-12 .g-col-lg-8 .top-story-img}
 ![](images/headshot.png)
+:::
+:::
 :::
 :::
