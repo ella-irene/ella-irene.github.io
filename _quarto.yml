@@ -9,7 +9,7 @@ website:
     background: "#f0eeeb"
     logo-alt: "Personal Website"
     title: false
-    logo: images/name1.png
+    logo: images/name4.png
     collapse-below: lg
     right:
       - resume/index.qmd

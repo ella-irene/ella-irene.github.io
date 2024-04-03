@@ -17,8 +17,12 @@ toc: false
 
 ::: grid
 ::: {.g-col-12 .g-col-lg-4 .top-story-text}
-## Creative Data Scientist
-Welcome to my page! I am a Masters in Data Science student at UBC with a passion for problem solving. Use this site to learn more about me, my projects, experiences, and the things I learned along the way.
+# Data Scientist 
+
+
+Creative, results-driven Masters student at the University of British Columbia (UBC), with a background in environmental chemistry. 
+
+Throughout my education and work experiences, I've developed a passion for machine learning and data visualization. Use this site to learn more about me, my projects, and my data science journey.
 :::
 ::: {.g-col-12 .g-col-lg-8 .top-story-img}
 ![](images/headshot.png)

@@ -1,7 +1,7 @@
 ---
 pagetitle: Projects | Ella Hein
 title: Projects
-subtitle: "Academic and personal projects through which I learned."
+subtitle: "Academic and personal projects."
 search: false
 repo-actions: false
 ---
