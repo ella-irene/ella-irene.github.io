@@ -5,4 +5,84 @@ subtitle: "A one-page overview of my experiences, projects, and skills."
 search: false
 repo-actions: false
 ---
-resume coming soon ...
+
+## Education
+---
+
+### Master of Data Science
+University of British Columbia, Vancouver, BC
+
+*Graduated: June 2024*
+
+### Bachelor of Arts in chemistry
+Carleton College, Northfield, MN
+
+*Graduated: June 2023*
+
+## Experience
+---
+### Data Scientist - Metalmark Innovations, LLC. 
+
+Cambridge, MA
+*2022 - 2024*
+
+- Developed a predictive convolutional neural network (CNN) using PyTorch, reducing costs by classifying volatile organic compounds with low-cost sensors.
+- Led the technology team in designing and analyzing experiments, resulting in an $803,859 NIH grant for product development.
+- Created and standardized company-wide procedures for data querying and statistical analysis, improving efficiency in product testing.
+
+### Techno-economic Modeling Intern - Heron Scientific, Inc.
+
+Remote
+*2022 - 2024*
+
+- Engineered a scalable economic model for evaluating large-scale carbon capture technologies.
+- Developed predictive models for material cost forecasting, enhancing the accuracy of economic evaluations.
+- Identified and rectified major issues in existing models, developing macros to improve accuracy and efficiency.
+
+### Data Analyst - Research - Carleton College
+
+Northfield, MN
+*2020 - 2023*
+
+- Designed and implemented experiments on air pollution and health impacts, using Python for data analysis and visualization.
+- Collaborated with cross-functional teams to ensure accurate and reliable research outcomes.
+
+### Makerspace Manager - Carleton College
+ 
+ Northfield, MN
+*Aug. 2022 - Jun. 2023*
+
+- Planned and conducted technical workshops for non-technical audiences, effectively communicating complex concepts.
+- Developed and executed an outreach strategy that doubled workshop attendance, showcasing strong organizational and communication skills.
+
+## Recent Projects
+---
+
+### AI-Driven Real Estate Insights, Capstone Project, UBC
+*May 2024*
+
+- Developed a transformer-based language model to tag potential buyers' interest levels from historical conversation data and CRM profiles, optimizing real estate interactions.
+
+### Airbnb Price Forecasting Dashboard, Advanced Data Visualization, UBC
+*Apr. 2024*
+
+- Visualized Airbnb postings in Vancouver using Dash and Python, implementing predictive models to forecast market trends.
+
+### Predictive Classification Model, Data Science Workflows, UBC
+*Nov. 2023*
+
+- Built a machine learning pipeline using Python’s Scikit-learn and Docker to predict diabetes in patients, employing logistic regression, k-nearest neighbors, and decision tree models.
+
+## Technical Skills
+---
+- **Programming Languages:** Python, Java, C++
+- **Frameworks and Tools:** PyTorch, Scikit-learn, Docker, Dash
+- **Software Development:** Object-oriented programming, software testing, version control (Git), agile methodologies
+- **Data Analysis and Visualization:** Pandas, NumPy, Matplotlib, Seaborn
+
+## Additional Skills
+---
+- Strong understanding of computer science fundamentals, including data structures and algorithms.
+- Excellent communication skills and ability to work effectively in cross-functional teams.
+- Proven ability to take ownership of tasks and projects, ensuring high-quality deliverables.
+- Passion for technology and continuous learning.
