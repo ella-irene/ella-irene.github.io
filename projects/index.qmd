@@ -4,5 +4,22 @@ title: Projects
 subtitle: "Academic and personal projects."
 search: false
 repo-actions: false
+listing:
+  contents:
+    - path: https://pythoshop.readthedocs.io/en/latest/?badge=latest
+      image: /images/pythoshop.png
+      title: "Python Package - Pythoshop"
+      description: "A Python package for simplifying image editing."
+
+    - path: https://ubc-mds.github.io/diabetes_classification_model/diabetes_classification_model_report.html
+      image: /images/classification.png
+      title: "Classification Model - Predicting Diabetes"
+      description: "A reproducible pipeline capable of predicting whether or not a patient has diabetes."
+
+    - path: https://dsci-532-2024-18-vancouverairbnbprices.onrender.com/
+      image: /images/dashboard.png
+      title: "Dashboard - Vancouver Airbnb"
+      description: "A dashboard for exploring Airbnb listings in Van."
+  type: grid
+  fields: [image, title, description]
 ---
-portfolio coming soon ...
