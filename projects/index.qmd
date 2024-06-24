@@ -7,7 +7,7 @@ repo-actions: false
 listing:
   contents:
     - path: https://pythoshop.readthedocs.io/en/latest/?badge=latest
-      image: /images/pythoshop.png
+      image: /images/cover.png
       title: "Python Package - Pythoshop"
       description: "A Python package for simplifying image editing."
 
@@ -17,9 +17,19 @@ listing:
       description: "A reproducible pipeline capable of predicting whether or not a patient has diabetes."
 
     - path: https://dsci-532-2024-18-vancouverairbnbprices.onrender.com/
-      image: /images/dashboard.png
+      image: /images/feature_histogram_by_class.png
       title: "Dashboard - Vancouver Airbnb"
       description: "A dashboard for exploring Airbnb listings in Van."
+
+    - path: https://www.carleton.edu/german/sustainability/
+      image: /images/ecocriticism.png
+      title: "Web Design - Environment and Engagement in German Studies"
+      description: "A Resource Hub for Ecocriticism, Pedagogy, and Academic Civic Engagement."
+
+    - path: https://ellairene.shinyapps.io/FinalProjectDirectory/
+      image: /images/emmissions.jpeg
+      title: "Shiny App Dashboard - Global CO2 Emissions"
+      description: "A dashboard for investigating CO2 emissions around the world."
   type: grid
   fields: [image, title, description]
 ---

@@ -636,12 +636,12 @@ div.quarto-post .listing-description {
 
 .quarto-grid-item {
   border: none;
-  background-color: #f0eeeb;
+  background-color: white;
 }
 
 .quarto-grid-item.borderless {
   border: none;
-  background-color: #f0eeeb;
+  background-color: white;
 }
 
 .quarto-grid-item div.post-contents {
