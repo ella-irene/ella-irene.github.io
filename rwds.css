@@ -52,7 +52,7 @@
 }
 
 .navbar-nav .nav-link:hover {
-  color: #939bc9;
+  color: #70b7cd;
   font-weight: 400;
 }
 
@@ -127,7 +127,7 @@
 }
 
 .quarto-title-banner a {
-  color: #939bc9;
+  color: #70b7cd;
 }
 
 @media (max-width: 991.98px) {
@@ -168,7 +168,7 @@
   font-family: 'Oswald';
   font-size: .9em;
   font-weight: 400;
-  color: #939bc9;
+  color: #70b7cd;
   text-transform: uppercase;
   border: solid 1px;
   border-radius: 0.25rem;
@@ -244,7 +244,7 @@ blockquote {
 }
 
 .citation a, .footnote-ref {
-  color: #939bc9;
+  color: #70b7cd;
   font-weight: 700;
 }
 
@@ -326,7 +326,7 @@ div.csl-entry {
 }
 
 .article-btn a:hover {
-  color: #939bc9;
+  color: #70b7cd;
 }
 
 .further-info {
@@ -378,7 +378,7 @@ div.csl-entry {
 }
 
 .nav-btn a:hover {
-  color: #939bc9;
+  color: #70b7cd;
 }
 
 
@@ -397,9 +397,9 @@ div.csl-entry {
 }
 
 .sidebar nav[role=doc-toc] ul>li>a.active {
-  border-left: 1px solid #939bc9;
+  border-left: 1px solid #70b7cd;
   font-weight: 500;
-  color: #939bc9 !important;
+  color: #70b7cd !important;
 }
 
 .sidebar nav[role=doc-toc]>ul a {
@@ -417,8 +417,8 @@ div.csl-entry {
 }
 
 .sidebar nav[role=doc-toc] ul>li>a.active, .sidebar nav[role=doc-toc] ul>li>ul>li>a.active {
-  border-left: 1px solid #939bc9;
-  color: #939bc9 !important;
+  border-left: 1px solid #70b7cd;
+  color: #70b7cd !important;
 }
 
 .toc-actions a {
@@ -428,7 +428,7 @@ div.csl-entry {
 }
 
 .toc-actions a:hover {
-  color: #939bc9;
+  color: #70b7cd;
 }
 
 #quarto-margin-sidebar .toc-actions .bi:before {
@@ -444,7 +444,7 @@ div.csl-entry {
 }
 
 .column-margin figcaption a {
-  color: #939bc9;
+  color: #70b7cd;
   font-weight: 700;
 }
 
@@ -550,26 +550,26 @@ a:hover {
 }
 
 p > a {
-  color: #939bc9;
+  color: #70b7cd;
   font-weight: 700;
 }
 
 b, strong a {
-  color: #939bc9;
+  color: #70b7cd;
 }
 
 ul a {
-  color: #939bc9;
+  color: #70b7cd;
   font-weight: 700;
 }
 
 li > a {
-  color: #939bc9;
+  color: #70b7cd;
   font-weight: 700;
 }
 
 dd a {
-  color: #939bc9;
+  color: #70b7cd;
   font-weight: 700;
 }
 
@@ -603,8 +603,8 @@ div.quarto-post .metadata {
 }
 
 div.quarto-post .listing-categories .listing-category {
-  color: #939bc9;
-  border: solid 1px #939bc9;
+  color: #70b7cd;
+  border: solid 1px #70b7cd;
   font-family: 'Oswald';
   font-weight: 400;
   font-size: .75em;
@@ -627,7 +627,7 @@ div.quarto-post a {
 
 .quarto-listing-category .category.active {
   font-weight: 500;
-  color: #939bc9;
+  color: #70b7cd;
 }
 
 div.quarto-post .listing-description {
@@ -642,7 +642,7 @@ div.quarto-post .listing-description {
 }
 
 .nav-page a:hover {
-  color: #939bc9;
+  color: #70b7cd;
 }
 
 
@@ -679,8 +679,8 @@ div.quarto-post .listing-description {
 }
 
 .quarto-grid-item .listing-categories .listing-category {
-  color: #939bc9;
-  border: solid 1px #939bc9 !important;
+  color: #70b7cd;
+  border: solid 1px #70b7cd !important;
   font-family: 'Oswald';
   font-weight: 400;
   font-size: .75em;
@@ -815,7 +815,7 @@ div.quarto-post .listing-description {
 }
 
 .listing-block h2:hover {
-  color: #939bc9;
+  color: #70b7cd;
 }
 
 .pullout-container {
@@ -850,7 +850,7 @@ div.quarto-post .listing-description {
   margin-right: 1.5em;
   text-transform: uppercase;
   text-decoration: underline;
-  text-decoration-color: #939bc9;
+  text-decoration-color: #70b7cd;
   text-decoration-thickness: 3px;
   margin-bottom: 1.5rem;
 }
@@ -885,7 +885,7 @@ div.quarto-post .listing-description {
 }
 
 .button a:hover {
-  color: #939bc9;
+  color: #70b7cd;
 }
 
 
@@ -924,7 +924,7 @@ div.quarto-post .listing-description {
 }
 
 .footer-text p > a:hover {
-  color: #939bc9;
+  color: #70b7cd;
   font-size: .875rem;
   font-weight: 400;
 }
@@ -959,7 +959,7 @@ body:not(.floating) .nav-footer {
 }
 
 .nav-footer a:hover {
-  color: #939bc9;
+  color: #70b7cd;
 }
 
 .nav-footer-left .footer-items .nav-link, .nav-footer-center .footer-items .nav-link, .nav-footer-right .footer-items .nav-link {
@@ -994,7 +994,7 @@ body:not(.floating) .nav-footer {
 
 /* webR */
 .btn-webr {
-  background-color: #939bc9;
+  background-color: #70b7cd;
   color: white;
 }
 
