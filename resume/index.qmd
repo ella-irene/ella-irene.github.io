@@ -4,12 +4,7 @@ title: Resume
 subtitle: "A one-page overview of my experiences, projects, and skills."
 search: false
 repo-actions: false
-format:
-  html:
-    css: styles.css
 ---
-
-<div class="resume-container">
 
 ## Education
 ---
@@ -19,7 +14,7 @@ University of British Columbia, Vancouver, BC
 
 *Graduated: June 2024*
 
-### Bachelor of Arts in Chemistry
+### Bachelor of Arts in chemistry
 Carleton College, Northfield, MN
 
 *Graduated: June 2023*
