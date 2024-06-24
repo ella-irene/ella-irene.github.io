@@ -124,6 +124,7 @@
 .quarto-title-banner {
   margin-bottom: 0.75em;
   color: black;
+  background-color: rgba(240, 238, 235, 0);
 }
 
 .quarto-title-banner a {
@@ -987,8 +988,10 @@ pre code:not(.sourceCode) {
   background-color: #F8F8F8;
 }
 
+/* Connect */
+
 #connect-container {
-  background-color: rgba(240, 238, 235, 0.9); /* Translucent background */
+  background-color: rgba(255, 255, 255, .8); /* Translucent background */
   padding: 2rem;
   border-radius: 10px;
 }
@@ -1012,7 +1015,7 @@ pre code:not(.sourceCode) {
   font-size: 1em;
   margin-bottom: 1rem;
   display: block;
-  color: #939bc9;
+  color: #70b7cd;
   text-decoration: none;
 }
 

@@ -6,9 +6,7 @@ search: false
 repo-actions: false
 ---
 <div id="connect-container">
-  <h1 class="connect-title">Connect with Me</h1>
-  <p class="connect-subtitle">Feel free to reach out via social media or email. I'd love to hear from you!</p>
-<a href="https://www.linkedin.com/in/yourprofile" class="connect-link" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/ella-hein/" class="connect-link" target="_blank">LinkedIn</a>
 <a href="https://github.com/ella-irene" class="connect-link" target="_blank">GitHub</a>
 <a href="mailto:ellaihein@gmail.com" class="connect-link">Email: ellaihein@gmail.com</a>
 
