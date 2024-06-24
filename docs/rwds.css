@@ -65,6 +65,7 @@
 
 .navbar-nav .show>.nav-link, .navbar-nav .active>.nav-link, .navbar-nav .nav-link.active {
   color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.5);
 }
 
 .nav-item {
@@ -208,6 +209,9 @@ body.nav-fixed {
 #quarto-content {
   background: transparent; /* Making the content area transparent to see the background image */
 }
+/*#quarto-content {
+  background-color: #f0eeeb;
+}*/
 
 #quarto-content>* {
   padding-top: 0;
@@ -696,6 +700,8 @@ div.quarto-post .listing-description {
 }
 
 .purple-background {
+  background-color: rgba(255, 255, 255, 0.5);
+  background-size: cover;
   background-color: rgba(255, 255, 255, 0.5);
   background-size: cover;
 }
