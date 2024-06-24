@@ -12,12 +12,12 @@ listing:
       description: "A Python package for simplifying image editing."
 
     - path: https://ubc-mds.github.io/diabetes_classification_model/diabetes_classification_model_report.html
-      image: /images/classification.png
+      image: /images/feature_histogram_by_class.png
       title: "Classification Model - Predicting Diabetes"
       description: "A reproducible pipeline capable of predicting whether or not a patient has diabetes."
 
     - path: https://dsci-532-2024-18-vancouverairbnbprices.onrender.com/
-      image: /images/feature_histogram_by_class.png
+      image: /images/dashboard.png
       title: "Dashboard - Vancouver Airbnb"
       description: "A dashboard for exploring Airbnb listings in Van."
 
@@ -27,9 +27,10 @@ listing:
       description: "A Resource Hub for Ecocriticism, Pedagogy, and Academic Civic Engagement."
 
     - path: https://ellairene.shinyapps.io/FinalProjectDirectory/
-      image: /images/emmissions.jpeg
+      image: /images/emissions.jpeg
       title: "Shiny App Dashboard - Global CO2 Emissions"
       description: "A dashboard for investigating CO2 emissions around the world."
+  
   type: grid
   fields: [image, title, description]
 ---
