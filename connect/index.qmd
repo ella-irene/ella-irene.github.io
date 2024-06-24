@@ -1,8 +1,22 @@
 ---
 pagetitle: Connect | Ella Hein
 title: Connect
-subtitle: "Connect with me to follow my progress!"
+subtitle: "Get in touch with me through social media or email!"
 search: false
 repo-actions: false
 ---
-Details coming soon ...
+<div id="connect-container">
+  <h1 class="connect-title">Connect with Me</h1>
+  <p class="connect-subtitle">Feel free to reach out via social media or email. I'd love to hear from you!</p>
+<a href="https://www.linkedin.com/in/yourprofile" class="connect-link" target="_blank">LinkedIn</a>
+<a href="https://github.com/ella-irene" class="connect-link" target="_blank">GitHub</a>
+<a href="mailto:ellaihein@gmail.com" class="connect-link">Email: ellaihein@gmail.com</a>
+
+  <h2 class="connect-title">Contact Form</h2>
+  <form class="contact-form">
+    <input type="text" name="name" placeholder="Your Name" required>
+    <input type="email" name="email" placeholder="Your Email" required>
+    <textarea name="message" rows="5" placeholder="Your Message" required></textarea>
+    <button type="submit">Send</button>
+  </form>
+</div>
