@@ -30,6 +30,11 @@ listing:
       image: /images/emissions.jpeg
       title: "Shiny App Dashboard - Global CO2 Emissions"
       description: "A dashboard for investigating CO2 emissions around the world."
+
+    - path: https://www.canva.com/design/DAErPKx_VP8/p0LDg_JIn5ObfIrLl2yhig/view?utm_content=DAErPKx_VP8&utm_campaign=designshare&utm_medium=link&utm_source=editor
+      image: /images/poster.png
+      title: "Research Project - Cooking Shouldn't Kill"
+      description: "Investigating the impact of indoor air pollution on human health."
   
   type: grid
   fields: [image, title, description]
