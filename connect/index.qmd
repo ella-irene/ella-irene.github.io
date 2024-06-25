@@ -2,8 +2,9 @@
 pagetitle: Connect | Ella Hein
 title: Connect
 subtitle: "Get in touch with me through social media or email!"
-search: false
+search: true
 repo-actions: false
+
 ---
 <div id="connect-container">
 <a href="https://www.linkedin.com/in/ella-hein/" class="connect-link" target="_blank">LinkedIn</a>
@@ -11,10 +12,12 @@ repo-actions: false
 <a href="mailto:ellaihein@gmail.com" class="connect-link">Email: ellaihein@gmail.com</a>
 
   <h2 class="connect-title">Contact Form</h2>
-  <form class="contact-form">
-    <input type="text" name="name" placeholder="Your Name" required>
-    <input type="email" name="email" placeholder="Your Email" required>
-    <textarea name="message" rows="5" placeholder="Your Message" required></textarea>
+  <form action="https://formspree.io/f/xqazzgzp" method="POST" class="contact-form">
+    <input type="text" id="name" name = "name" placeholder="Your Name" required>
+    <input type="email" id="email" name="email" placeholder="Your Email" required>
+    <input type="text" id="subject" name="subject" placeholder="Subject" required>
+    <textarea id="message" name="message" rows="5" placeholder="Your Message" required></textarea>
     <button type="submit">Send</button>
   </form>
 </div>
+

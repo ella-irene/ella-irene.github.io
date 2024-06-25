@@ -1044,8 +1044,70 @@ pre code:not(.sourceCode) {
   background-color: #555;
 }
 
+/* RESUME */
 .resume-container {
     background-color: rgba(255, 255, 255, 0.8); /* Translucent white */
     padding: 20px;
     border-radius: 10px;
+}
+
+/* NEW contact form */
+.contact-form-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: rgba(240, 238, 235, 0.9);
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.contact-form-container h2 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+.form-group {
+  margin-bottom: 1rem;
+}
+.form-group label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.form-group textarea {
+  resize: vertical;
+  height: 150px;
+}
+.form-group button {
+  display: block;
+  width: 100%;
+  padding: 0.75rem;
+  border: none;
+  background-color: #939bc9;
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.form-group button:hover {
+  background-color: #7a80b1;
+}
+.social-links {
+  text-align: center;
+  margin-top: 1.5rem;
+}
+.social-links a {
+  margin: 0 10px;
+  color: #939bc9;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+.social-links a:hover {
+  color: #7a80b1;
 }

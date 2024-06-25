@@ -135,9 +135,9 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="connect-title anchored">
 Contact Form
 </h2>
-<form class="contact-form">
-<input type="text" name="name" placeholder="Your Name" required=""> <input type="email" name="email" placeholder="Your Email" required="">
-<textarea name="message" rows="5" placeholder="Your Message" required=""></textarea>
+<form action="https://formspree.io/f/xqazzgzp" method="POST" class="contact-form">
+<input type="text" id="name" name="name" placeholder="Your Name" required=""> <input type="email" id="email" name="email" placeholder="Your Email" required=""> <input type="text" id="subject" name="subject" placeholder="Subject" required="">
+<textarea id="message" name="message" rows="5" placeholder="Your Message" required=""></textarea>
 <button type="submit">
 Send
 </button>

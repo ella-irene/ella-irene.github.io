@@ -23,7 +23,9 @@ Carleton College, Northfield, MN
 
 ## Experience
 ---
-### Data Scientist - Metalmark Innovations, LLC. 
+### Data Scientist 
+
+**Metalmark Innovations, LLC.** 
 
 Cambridge, MA
 *2022 - 2024*
@@ -32,7 +34,9 @@ Cambridge, MA
 - Led the technology team in designing and analyzing experiments, resulting in an $803,859 NIH grant for product development.
 - Created and standardized company-wide procedures for data querying and statistical analysis, improving efficiency in product testing.
 
-### Techno-economic Modeling Intern - Heron Scientific, Inc.
+### Techno-economic Modeling Intern 
+
+**Heron Scientific, Inc.**
 
 Remote
 *2022 - 2024*
@@ -41,7 +45,9 @@ Remote
 - Developed predictive models for material cost forecasting, enhancing the accuracy of economic evaluations.
 - Identified and rectified major issues in existing models, developing macros to improve accuracy and efficiency.
 
-### Data Analyst - Research - Carleton College
+### Data Analyst - Research 
+
+**Carleton College Chemistry Department**
 
 Northfield, MN
 *2020 - 2023*
@@ -49,7 +55,9 @@ Northfield, MN
 - Designed and implemented experiments on air pollution and health impacts, using Python for data analysis and visualization.
 - Collaborated with cross-functional teams to ensure accurate and reliable research outcomes.
 
-### Makerspace Manager - Carleton College
+### Makerspace Manager 
+
+**Carleton College Makerspace**
  
  Northfield, MN
 *Aug. 2022 - Jun. 2023*
@@ -60,17 +68,26 @@ Northfield, MN
 ## Recent Projects
 ---
 
-### AI-Driven Real Estate Insights, Capstone Project, UBC
+### AI-Driven Real Estate Insights 
+
+**Capstone Project, UBC**
+
 *May 2024*
 
 - Developed a transformer-based language model to tag potential buyers' interest levels from historical conversation data and CRM profiles, optimizing real estate interactions.
 
-### Airbnb Price Forecasting Dashboard, Advanced Data Visualization, UBC
+### Airbnb Price Forecasting Dashboard
+
+**Advanced Data Visualization, UBC**
+
 *Apr. 2024*
 
 - Visualized Airbnb postings in Vancouver using Dash and Python, implementing predictive models to forecast market trends.
 
-### Predictive Classification Model, Data Science Workflows, UBC
+### Predictive Classification Model
+
+**Data Science Workflows, UBC**
+
 *Nov. 2023*
 
 - Built a machine learning pipeline using Python’s Scikit-learn and Docker to predict diabetes in patients, employing logistic regression, k-nearest neighbors, and decision tree models.
