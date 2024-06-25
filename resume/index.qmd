@@ -6,6 +6,8 @@ search: false
 repo-actions: false
 ---
 
+<div class="resume-container">
+
 ## Education
 ---
 
